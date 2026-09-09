@@ -1,0 +1,13 @@
+{
+  "name": "boxlang-agent-skills",
+  "owner": {
+    "name": "Ortus Solutions",
+    "email": "info@ortussolutions.com"
+  },
+  "plugins": [
+    {
+      "name": "boxlang-agent-skills",
+      "source": "./"
+    }
+  ]
+}

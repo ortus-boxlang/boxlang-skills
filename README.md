@@ -51,6 +51,18 @@ If you use plugin marketplace commands:
 /plugin install boxlang-agent-skills@ortus-boxlang
 ```
 
+## Cursor Marketplace Install
+
+This repository also ships a [Cursor](https://cursor.com/) plugin manifest under [`.cursor-plugin/`](./.cursor-plugin/), covering the same skill set as the Claude plugin. Add it from Cursor's Marketplace (Settings → Marketplace → Add Marketplace, or your installed Cursor version's marketplace/plugin CLI) pointed at:
+
+```
+ortus-boxlang/skills
+```
+
+## Grok Plugin Install
+
+A Grok-compatible plugin manifest is published at [`.grok-plugin/plugin.json`](./.grok-plugin/plugin.json). Point your Grok agent's plugin/marketplace loader at this repository (`ortus-boxlang/skills`) to install it.
+
 ## ColdBox CLI
 
 ```bash
