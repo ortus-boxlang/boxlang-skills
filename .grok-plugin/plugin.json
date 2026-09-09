@@ -10,5 +10,5 @@
   "homepage": "https://boxlang.io/",
   "repository": "https://github.com/ortus-boxlang/skills",
   "license": "Apache-2.0",
-  "keywords": ["boxlang", "commandbox", "jvm", "java", "cfml", "coldfusion", "lucee", "lambda", "serverless", "desktop", "web", "forgebox", "package-manager", "embedded-server", "task-runner", "ortus"]
+  "keywords": ["boxlang", "commandbox", "cfml", "coldfusion", "lucee", "forgebox", "ortus"]
 }
